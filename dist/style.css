@@ -1,0 +1,12 @@
+--font-family-primary:sans-serif;
+--font-family-bold: 'Ruda';
+@media screen and (max-width: 768px) {
+    .icones{
+        display: none;
+    }
+    .content{
+        font-size: 1em;
+    }
+}
+
+
