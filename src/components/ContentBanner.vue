@@ -99,7 +99,7 @@
           <div class="iframe d-flex flex-row-reverse col-lg-6 col-md-12 col-sm-12">
             <iframe
               class="bg-light"
-              src="https://alfatecjp.netlify.app"
+              src="https://marcioalex-x.github.io/projetoParallax"
               frameborder="0"
               width="650"
               height="300"
