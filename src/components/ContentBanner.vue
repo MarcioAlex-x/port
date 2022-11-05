@@ -94,6 +94,30 @@
             </button>
           </div>
         </div>
+        <hr>
+        <div class="container-fluid row pt-5">
+          <div class="iframe d-flex flex-row-reverse col-lg-6 col-md-12 col-sm-12">
+            <iframe
+              class="bg-light"
+              src="https://alfatecjp.netlify.app"
+              frameborder="0"
+              width="650"
+              height="300"
+            ></iframe>
+          </div>
+          <div class="content col-lg-6 col-md-12 col-sm-12">
+            <h4>Projeto Parallax</h4>
+            <p>
+      
+              Uma página sem navegabilidade, feita para treinar CSS criando um efeito PARALLAX durante o scroll da página.
+              <br />
+              Criado com HTML e CSS.
+            </p>
+            <button class="btn  btn-outline-secondary">
+              <a href="https://marcioalex-x.github.io/projetoParallax/">Acesse</a>
+            </button>
+          </div>
+        </div>
       
   </div>
     
